@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Shivasai-hub/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shivasai-hub/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Shivasai-hub/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/Shivasai-hub/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivasai-hub/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivasai-hub/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivasai-hub/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Shivasai-hub/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Shivasai-hub/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Shivasai-hub/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/Shivasai-hub/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shivasai-hub/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Shivasai-hub/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Shivasai-hub/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Shivasai-hub/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0901-online-stock-span](https://github.com/Shivasai-hub/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/Shivasai-hub/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivasai-hub/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shivasai-hub/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shivasai-hub/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
