@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Shivasai-hub/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Shivasai-hub/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0622-design-circular-queue](https://github.com/Shivasai-hub/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0682-baseball-game](https://github.com/Shivasai-hub/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/Shivasai-hub/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/Shivasai-hub/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivasai-hub/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shivasai-hub/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0622-design-circular-queue](https://github.com/Shivasai-hub/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivasai-hub/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/Shivasai-hub/Leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Shivasai-hub/Leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Shivasai-hub/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Shivasai-hub/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Shivasai-hub/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/Shivasai-hub/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shivasai-hub/Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/Shivasai-hub/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Shivasai-hub/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Shivasai-hub/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0622-design-circular-queue](https://github.com/Shivasai-hub/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
