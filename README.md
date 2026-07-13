@@ -781,4 +781,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Shivasai-hub/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Shivasai-hub/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shivasai-hub/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/Shivasai-hub/Leetcode/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
