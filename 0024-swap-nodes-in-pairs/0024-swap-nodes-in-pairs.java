@@ -14,14 +14,19 @@ class Solution {
         {
             return head;
         }
-        ListNode dummy = head;
-        while(dummy != null && dummy.next != null)
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode prev = dummy;
+        while(prev.next != null && prev.next.next != null)
         {
-            int temp = dummy.val;
-            dummy.val = dummy.next.val;
-            dummy.next.val = temp;
-            dummy = dummy.next.next;
+            ListNode first = prev.next;
+            ListNode second = first.next;
+            ListNode nextPair = second.next;
+            prev.next = second;
+            second.next = first;
+            first.next = nextPair;
+            prev = first;
         }
-        return head;
+        return dummy.next;
     }
 }
