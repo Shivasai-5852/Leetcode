@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shivasai-hub/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Shivasai-hub/Leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/Shivasai-hub/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Shivasai-hub/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Shivasai-hub/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivasai-hub/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Shivasai-hub/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0061-rotate-list](https://github.com/Shivasai-hub/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shivasai-hub/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shivasai-hub/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
