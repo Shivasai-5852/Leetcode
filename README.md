@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Shivasai-hub/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivasai-hub/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Shivasai-hub/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Shivasai-hub/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivasai-hub/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/Shivasai-hub/Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shivasai-hub/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shivasai-hub/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Shivasai-hub/Leetcode/tree/main/3379-transformed-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -600,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Shivasai-hub/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Shivasai-hub/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shivasai-hub/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
