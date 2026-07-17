@@ -14,26 +14,17 @@ class Solution {
         {
             return head;
         }
-        ListNode dummy = new ListNode(0);
-        ListNode tempOdd = head;
-        ListNode curr = dummy;
-        while(tempOdd != null)
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode evenHead = even;
+        while(even != null && even.next != null)
         {
-            ListNode idx = new ListNode(tempOdd.val);
-            curr.next = idx;
-            curr = idx;
-            if(tempOdd.next == null)   break;
-            tempOdd = tempOdd.next.next;
-        } 
-        ListNode tempEven = head.next;
-        while(tempEven != null)
-        {
-            ListNode idx = new ListNode(tempEven.val);
-            curr.next = idx;
-            curr = idx;
-            if(tempEven.next == null)   break;
-            tempEven = tempEven.next.next;
-        } 
-        return dummy.next;
+            odd.next = even.next;
+            odd = odd.next;
+            even.next = odd.next;
+            even = even.next;
+        }
+        odd.next = evenHead;
+        return head;
     }
 }
