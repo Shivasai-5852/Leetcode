@@ -22,10 +22,9 @@ class Solution {
             visited[ch - 'a'] = true;
         }
         StringBuilder ans = new StringBuilder();
-        while(!st.isEmpty())
-        {
-            ans.append(st.pop());
+        for(char c : st){
+            ans.append(c);
         }
-        return ans.reverse().toString();
+        return ans.toString();
     }
 }
