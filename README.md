@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Shivasai-hub/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Shivasai-hub/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivasai-hub/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Shivasai-hub/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivasai-hub/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivasai-hub/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Shivasai-hub/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Shivasai-hub/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Shivasai-hub/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Shivasai-hub/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shivasai-hub/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Shivasai-hub/Leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shivasai-hub/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shivasai-hub/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Shivasai-hub/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Shivasai-hub/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivasai-hub/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Shivasai-hub/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
