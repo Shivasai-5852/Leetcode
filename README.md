@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Shivasai-hub/Leetcode/tree/main/3174-clear-digits/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Shivasai-hub/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shivasai-hub/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Shivasai-hub/Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Greedy
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Shivasai-hub/Leetcode/tree/main/1291-sequential-digits/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
