@@ -1,29 +1,32 @@
 class Solution {
     public int maxActiveSectionsAfterTrade(String s) {
-        int totalOnes = 0;
-        int previousZero = Integer.MIN_VALUE;
-        int maxGain = 0;
-        int i = 0;
         int n = s.length();
+        int activeCount = 0;
+        for(char ch : s.toCharArray())
+        {
+            if(ch == '1')   activeCount++;
+        }
+        List<Integer> list = new ArrayList<>();
+        int i = 0;
         while(i < n)
         {
-            int j = i;
-            while(j < n && s.charAt(j) == s.charAt(i))
+            if(s.charAt(i) == '0')
             {
-                j++;
-            }
-            int len = j - i;
-            if(s.charAt(i) == '1')
-            {
-                totalOnes += len;
+                int start = i;
+                while(i < n && s.charAt(i) == '0')  i++;
+                int temp = i - start;
+                list.add(temp);
             }
             else
             {
-                maxGain = Math.max(maxGain, previousZero + len);
-                previousZero = len;
+                i++;
             }
-            i = j;
         }
-        return totalOnes + maxGain;
+        int ans = 0;
+        for(int j = 1; j < list.size(); j++)
+        {
+            ans = Math.max(ans, list.get(j) + list.get(j - 1));
+        }
+        return ans + activeCount;
     }
 }
