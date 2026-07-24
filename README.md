@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Shivasai-hub/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Shivasai-hub/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shivasai-hub/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivasai-hub/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivasai-hub/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/Shivasai-hub/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Shivasai-hub/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Shivasai-hub/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivasai-hub/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1544-make-the-string-great](https://github.com/Shivasai-hub/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
