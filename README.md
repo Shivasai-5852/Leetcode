@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Shivasai-hub/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Shivasai-hub/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3174-clear-digits](https://github.com/Shivasai-hub/Leetcode/tree/main/3174-clear-digits/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Shivasai-hub/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Shivasai-hub/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Shivasai-hub/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivasai-hub/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/Shivasai-hub/Leetcode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Shivasai-hub/Leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shivasai-hub/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shivasai-hub/Leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Shivasai-hub/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivasai-hub/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
