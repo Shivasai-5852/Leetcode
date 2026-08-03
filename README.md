@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Shivasai-hub/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/Shivasai-hub/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Shivasai-hub/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Shivasai-hub/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/Shivasai-hub/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/Shivasai-hub/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Shivasai-hub/Leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/Shivasai-hub/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Shivasai-hub/Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivasai-hub/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Shivasai-hub/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/Shivasai-hub/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Shivasai-hub/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
