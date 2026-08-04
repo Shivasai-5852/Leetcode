@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Shivasai-hub/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Shivasai-hub/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivasai-hub/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Shivasai-hub/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0506-relative-ranks](https://github.com/Shivasai-hub/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivasai-hub/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Shivasai-hub/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivasai-hub/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Shivasai-hub/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Shivasai-hub/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
