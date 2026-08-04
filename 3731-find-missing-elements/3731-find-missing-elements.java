@@ -8,14 +8,14 @@ class Solution {
             maxi = Math.max(maxi, num);
         }
         List<Integer> list = new ArrayList<>();
-        int[] freq = new int[101];
+        boolean[] present = new boolean[101];
         for(int num : nums)
         {
-            freq[num]++;
+            present[num] = true;
         }
         for(int i = mini; i <= maxi; i++)
         {
-            if(freq[i] == 0)
+            if(!present[i])
             {
                 list.add(i);
             }
