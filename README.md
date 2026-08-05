@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shivasai-hub/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Shivasai-hub/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Shivasai-hub/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/Shivasai-hub/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0046-permutations](https://github.com/Shivasai-hub/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Shivasai-hub/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Shivasai-hub/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivasai-hub/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/Shivasai-hub/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Shivasai-hub/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Shivasai-hub/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Shivasai-hub/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Shivasai-hub/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/Shivasai-hub/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Shivasai-hub/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Shivasai-hub/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
