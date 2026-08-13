@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Shivasai-hub/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Shivasai-hub/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Shivasai-hub/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivasai-hub/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivasai-hub/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/Shivasai-hub/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Shivasai-hub/Leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivasai-hub/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Shivasai-hub/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shivasai-hub/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shivasai-hub/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shivasai-hub/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0567-permutation-in-string](https://github.com/Shivasai-hub/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Shivasai-hub/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Shivasai-hub/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivasai-hub/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shivasai-hub/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
