@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3379-transformed-array](https://github.com/Shivasai-hub/Leetcode/tree/main/3379-transformed-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Shivasai-hub/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Shivasai-hub/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shivasai-hub/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Shivasai-hub/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivasai-hub/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivasai-hub/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Shivasai-hub/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Shivasai-hub/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
