@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/Shivasai-hub/Leetcode/tree/main/0279-perfect-squares/) | Medium |
+| [0292-nim-game](https://github.com/Shivasai-hub/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/Shivasai-hub/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Shivasai-hub/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Shivasai-hub/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Shivasai-hub/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Shivasai-hub/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -957,9 +959,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Shivasai-hub/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/Shivasai-hub/Leetcode/tree/main/0877-stone-game/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivasai-hub/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Shivasai-hub/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Shivasai-hub/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Shivasai-hub/Leetcode/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
