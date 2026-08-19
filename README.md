@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shivasai-hub/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shivasai-hub/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivasai-hub/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Shivasai-hub/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivasai-hub/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shivasai-hub/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivasai-hub/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivasai-hub/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1323-maximum-69-number](https://github.com/Shivasai-hub/Leetcode/tree/main/1323-maximum-69-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Shivasai-hub/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Shivasai-hub/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivasai-hub/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivasai-hub/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivasai-hub/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Shivasai-hub/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivasai-hub/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Shivasai-hub/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shivasai-hub/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Shivasai-hub/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Shivasai-hub/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivasai-hub/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
