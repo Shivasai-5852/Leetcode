@@ -961,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Shivasai-hub/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Shivasai-hub/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/Shivasai-hub/Leetcode/tree/main/0607-sales-person/) | Easy |
+| [0619-biggest-single-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Shivasai-hub/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Shivasai-hub/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Game Theory
