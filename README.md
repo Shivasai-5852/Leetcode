@@ -972,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/Shivasai-hub/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Shivasai-hub/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Shivasai-hub/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1075-project-employees-i](https://github.com/Shivasai-hub/Leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Shivasai-hub/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
