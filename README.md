@@ -969,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Shivasai-hub/Leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Shivasai-hub/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/Shivasai-hub/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Shivasai-hub/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
