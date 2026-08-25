@@ -977,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/Shivasai-hub/Leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/Shivasai-hub/Leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/Shivasai-hub/Leetcode/tree/main/1148-article-views-i/) | Easy |
+| [1179-reformat-department-table](https://github.com/Shivasai-hub/Leetcode/tree/main/1179-reformat-department-table/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Shivasai-hub/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
