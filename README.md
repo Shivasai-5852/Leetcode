@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/Shivasai-hub/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shivasai-hub/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Shivasai-hub/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivasai-hub/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shivasai-hub/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Shivasai-hub/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Shivasai-hub/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shivasai-hub/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
