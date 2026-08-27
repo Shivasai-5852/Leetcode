@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivasai-hub/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shivasai-hub/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shivasai-hub/Leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Shivasai-hub/Leetcode/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shivasai-hub/Leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shivasai-hub/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Shivasai-hub/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivasai-hub/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Shivasai-hub/Leetcode/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shivasai-hub/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Matrix
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Shivasai-hub/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Shivasai-hub/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Shivasai-hub/Leetcode/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
