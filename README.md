@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivasai-hub/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shivasai-hub/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Shivasai-hub/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shivasai-hub/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Shivasai-hub/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shivasai-hub/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Shivasai-hub/Leetcode/tree/main/1653-minimum-deletions-to-make-string-balanced/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shivasai-hub/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3516-find-closest-person](https://github.com/Shivasai-hub/Leetcode/tree/main/3516-find-closest-person/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Shivasai-hub/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shivasai-hub/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shivasai-hub/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
