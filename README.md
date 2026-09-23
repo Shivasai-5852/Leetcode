@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Shivasai-hub/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shivasai-hub/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivasai-hub/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Shivasai-hub/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivasai-hub/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shivasai-hub/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shivasai-hub/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Shivasai-hub/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Shivasai-hub/Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivasai-hub/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shivasai-hub/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shivasai-hub/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shivasai-hub/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Shivasai-hub/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivasai-hub/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivasai-hub/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Shivasai-hub/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shivasai-hub/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Shivasai-hub/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Shivasai-hub/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivasai-hub/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shivasai-hub/Leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Shivasai-hub/Leetcode/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
@@ -637,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivasai-hub/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivasai-hub/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shivasai-hub/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivasai-hub/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shivasai-hub/Leetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shivasai-hub/Leetcode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shivasai-hub/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
