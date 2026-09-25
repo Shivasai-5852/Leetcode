@@ -1017,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/Shivasai-hub/Leetcode/tree/main/1179-reformat-department-table/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Shivasai-hub/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Shivasai-hub/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
+| [1729-find-followers-count](https://github.com/Shivasai-hub/Leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Shivasai-hub/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
