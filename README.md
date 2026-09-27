@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Shivasai-hub/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Shivasai-hub/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Shivasai-hub/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivasai-hub/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shivasai-hub/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivasai-hub/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1544-make-the-string-great](https://github.com/Shivasai-hub/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Shivasai-hub/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shivasai-hub/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shivasai-hub/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivasai-hub/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shivasai-hub/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shivasai-hub/Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/Shivasai-hub/Leetcode/tree/main/1544-make-the-string-great/) | Easy |
@@ -1029,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivasai-hub/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivasai-hub/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
