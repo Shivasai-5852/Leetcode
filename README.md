@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shivasai-hub/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/Shivasai-hub/Leetcode/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Shivasai-hub/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shivasai-hub/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
