@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Shivasai-hub/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Shivasai-hub/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Shivasai-hub/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/Shivasai-hub/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Shivasai-hub/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shivasai-hub/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Shivasai-hub/Leetcode/tree/main/0137-single-number-ii/) | Medium |
+| [0190-reverse-bits](https://github.com/Shivasai-hub/Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Shivasai-hub/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/Shivasai-hub/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Shivasai-hub/Leetcode/tree/main/0268-missing-number/) | Easy |
