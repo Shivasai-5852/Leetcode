@@ -1061,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/Shivasai-hub/Leetcode/tree/main/1179-reformat-department-table/) | Easy |
 | [1280-students-and-examinations](https://github.com/Shivasai-hub/Leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Shivasai-hub/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/Shivasai-hub/Leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shivasai-hub/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Shivasai-hub/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/Shivasai-hub/Leetcode/tree/main/1729-find-followers-count/) | Easy |
