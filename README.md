@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shivasai-hub/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/Shivasai-hub/Leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
