@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Shivasai-hub/Leetcode/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/Shivasai-hub/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Shivasai-hub/Leetcode/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shivasai-hub/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Shivasai-hub/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivasai-hub/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/Shivasai-hub/Leetcode/tree/main/3174-clear-digits/) | Easy |
+| [3360-stone-removal-game](https://github.com/Shivasai-hub/Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3379-transformed-array](https://github.com/Shivasai-hub/Leetcode/tree/main/3379-transformed-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Shivasai-hub/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Shivasai-hub/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
